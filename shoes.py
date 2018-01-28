@@ -15,7 +15,6 @@ from pandas_datareader import data as pdr
 
 import fix_yahoo_finance as yf
 
-plotly.tools.set_credentials_file(username='art2150', api_key='xhLQpTBUtg3DZzvwOwZE')
 
 #question: do shoe deals for star NBA players increase price of stock?
 
